@@ -1,0 +1,20 @@
+{
+  "html.format.enable": true,
+  "coc.preferences.formatOnType": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "graphql",
+    "markdown",
+    "html",
+    "css",
+    "json",
+    "vue",
+    "php",
+    "go",
+    "sql",
+    "c"
+  ]
+}
